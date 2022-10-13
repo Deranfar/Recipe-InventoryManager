@@ -1,0 +1,55 @@
+{
+    "recipebook": {"sections": [{
+        "recipes": [{
+            "name": "lsdfjdsf",
+            "ingredients": [{
+                "date": {
+                    "month": 3,
+                    "year": 2022,
+                    "day": 10
+                },
+                "amount": {
+                    "unit": "G",
+                    "quantity": 12
+                },
+                "freshness/uses": 12,
+                "name": "lsdkfjdslkjs",
+                "edible": true
+            }],
+            "tools": [{
+                "date": {
+                    "month": 3,
+                    "year": 2022,
+                    "day": 10
+                },
+                "amount": {
+                    "unit": "",
+                    "quantity": 12
+                },
+                "freshness/uses": 25,
+                "name": "lsdfjdsljs",
+                "edible": false
+            }],
+            "descriptions": [
+                "lskjflds",
+                "lsfjdslkfj",
+                "slfjsd"
+            ]
+        }],
+        "name": "flsdjfldskj"
+    }]},
+    "inventory": {"items": [{
+        "date": {
+            "month": 3,
+            "year": 2022,
+            "day": 10
+        },
+        "amount": {
+            "unit": "",
+            "quantity": 12
+        },
+        "freshness/uses": 12,
+        "name": "lksadjflksdj",
+        "edible": true
+    }]}
+}

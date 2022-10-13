@@ -1,0 +1,71 @@
+{
+    "recipebook": {"sections": [{
+        "recipes": [{
+            "image": "./data/tobs.jpg",
+            "name": "stir fried jesus",
+            "ingredients": [{
+                "date": {
+                    "month": 1,
+                    "year": 2022,
+                    "day": 12
+                },
+                "amount": {
+                    "unit": "G",
+                    "quantity": 12
+                },
+                "freshness/uses": 12,
+                "name": "edbilejesus",
+                "edible": true
+            }],
+            "tools": [{
+                "date": {
+                    "month": 1,
+                    "year": 2022,
+                    "day": 12
+                },
+                "amount": {
+                    "unit": "",
+                    "quantity": 12
+                },
+                "freshness/uses": 54,
+                "name": "jesus",
+                "edible": false
+            }],
+            "descriptions": [
+                "take the jesus out of the fridge",
+                "do the thing"
+            ]
+        }],
+        "name": "jesuses"
+    }]},
+    "inventory": {"items": [
+        {
+            "date": {
+                "month": 1,
+                "year": 2022,
+                "day": 12
+            },
+            "amount": {
+                "unit": "",
+                "quantity": 12
+            },
+            "freshness/uses": 54,
+            "name": "jesus",
+            "edible": false
+        },
+        {
+            "date": {
+                "month": 1,
+                "year": 2022,
+                "day": 12
+            },
+            "amount": {
+                "unit": "G",
+                "quantity": 12
+            },
+            "freshness/uses": 12,
+            "name": "edbilejesus",
+            "edible": true
+        }
+    ]}
+}

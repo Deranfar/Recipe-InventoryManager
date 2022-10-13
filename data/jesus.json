@@ -1,0 +1,100 @@
+{
+    "inventory":
+    {
+        "items":
+        [
+          {
+            "name": "jesus",
+            "amount":
+            {
+              "quantity": 12,
+              "unit": ""
+            },
+            "date":
+            {
+              "year": 2022,
+              "month": 1,
+              "day": 12
+            },
+            "edible": false,
+            "freshness/uses": 54
+          },
+          {
+            "name": "edbilejesus",
+            "amount":
+            {
+              "quantity": 12,
+              "unit": "G"
+            },
+            "date":
+            {
+              "year": 2022,
+              "month": 1,
+              "day": 12
+            },
+            "edible": true,
+            "freshness/uses": 12
+          }
+        ]
+    },
+    "recipebook":
+    {
+      "sections":
+      [
+        {
+          "name": "jesuses",
+          "recipes":
+          [
+            {
+              "image": "./data/tobs.jpg",
+              "name": "stir fried jesus",
+              "descriptions":
+              [
+                "take the jesus out of the fridge",
+                "do the thing"
+              ],
+              "ingredients":
+              [
+                {
+                  "name": "edbilejesus",
+                  "amount":
+                  {
+                    "quantity": 12,
+                    "unit": "G"
+                  },
+                  "date":
+                  {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 12
+                  },
+                  "edible": true,
+                  "freshness/uses": 12
+                }
+              ],
+              "tools":
+              [
+                {
+                  "name": "jesus",
+                  "amount":
+                  {
+                    "quantity": 12,
+                    "unit": ""
+                  },
+                  "date":
+                  {
+                    "year": 2022,
+                    "month": 1,
+                    "day": 12
+                  },
+                  "edible": false,
+                  "freshness/uses": 54
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+
+}

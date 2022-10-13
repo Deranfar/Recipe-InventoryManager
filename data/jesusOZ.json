@@ -1,0 +1,24 @@
+{
+  "inventory":
+  {
+    "items":
+    [
+      {
+        "name": "jesusOZ",
+        "amount":
+        {
+          "quantity": 12,
+          "unit": "OZ"
+        },
+        "date":
+        {
+          "year": 2022,
+          "month": 1,
+          "day": 12
+        },
+        "edible": true,
+        "freshness/uses": 54
+      }
+    ]
+  }
+}
